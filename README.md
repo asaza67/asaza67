@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @asaza67
-- 👀 I’m interested in blockchain and game development
-- 🌱 I’m currently learning python, c# and unity3D
+- 👀 I’m interested in cloud and game development
 - 📫 Reach me here or at ahmadasyrafzaim@gmail.com
 
 <!---
